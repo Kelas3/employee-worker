@@ -1,9 +1,8 @@
 
 /**
- * Write a description of class Worker here.
+ * Simulates worker
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Salek Khan
  */
 public class Worker
 {
