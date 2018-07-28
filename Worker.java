@@ -1,7 +1,6 @@
 
 /**
  * Simulates worker
- * 
  * @author Salek Khan
  */
 public class Worker
