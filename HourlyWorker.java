@@ -1,7 +1,6 @@
 
 /**
- * Write a description of class HourlyWorker here.
- * 
+ * Simulates a worker object
  * @author (your name) 
  * @version (a version number or a date)
  */
