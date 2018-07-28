@@ -1,3 +1,8 @@
+/*
+* Tests the paycheck object
+* @author Salek Khan
+*/
+
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.util.Scanner;
